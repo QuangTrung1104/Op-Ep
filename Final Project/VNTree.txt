@@ -1,0 +1,5 @@
+﻿(ROOT ( S ( NP Nam ) ( VP ( VB học ) ( NP bài ) ) ) ) .
+(ROOT ( S ( NP Nam ) ( VP ( VB đọc ) ( NP ( NP sách ) ( PP ( IN ở ) ( NP trường ) ) ) ) ) ) .
+(ROOT ( S ( NP Nam ) ( VP ( VB ở ) ( NP trường ) ) ) ) .
+(ROOT ( S ( NP Nam ) ( VP ( VB thích ) ( VP ( VB đọc ) ( NP sách ) ) ) ) ) .
+(ROOT ( S ( NP ( NNP Nam ) ( NP ( CC và ) ( NP Lan ) ) ) ( VP ( VP ( RB đều ) ( VB thích ) ) ( VP ( VB đọc ) ( NP sách ) ) ) ) ) .

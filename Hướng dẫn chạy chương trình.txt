@@ -1,0 +1,7 @@
+- Mở file Final_Project.jar trong thư mục dist để bắt đầu khởi động chương trình
+
+- Hướng dẫn chạy chương trình
+	Bước 1: Load dữ liệu từ file huấn luyện ( XLNNTN Grammar.txt)
+	Bước 2: Nhấn nút Probability để tính xác xuất của các từ trong bộ huấn luyện
+	Bước 3: Nhập một câu để bắt đầu tìm cây cú pháp và tạo danh sách các phân tích cú pháp tiềm năng
+	Bước 4: Nhấn nút (Action P - CKY) để thực thi
