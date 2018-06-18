@@ -1,4 +1,4 @@
-- Mở file Final_Project.jar trong thư mục dist để bắt đầu khởi động chương trình
+- Mở file Final_Project.jar trong thư mục "Final Project/dist" để bắt đầu khởi động chương trình
 
 - Hướng dẫn chạy chương trình
 	Bước 1: Load dữ liệu từ file huấn luyện ( XLNNTN Grammar.txt)
